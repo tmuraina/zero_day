@@ -1,3 +1,6 @@
-#Vagrant
+# Vagrant
 
-##ALX Optional project - Month 0
+## ALX Optional project - Month 0
+
+* Learn Ubuntu
+
